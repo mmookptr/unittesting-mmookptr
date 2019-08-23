@@ -110,7 +110,9 @@ class Fraction:
         elif self.get_fraction_gcd() == frac.get_fraction_gcd():
             return self.numerator == frac.numerator and self.denominator == frac.denominator
 
-
+f = Fraction(1,7)
+g = Fraction(-1,9)
+print(f.__add__(g))
 
 
 
