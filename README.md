@@ -18,7 +18,8 @@ Write a table describing your test cases.
 
 ## Test Cases for Fraction
 
-#Test Case for __init__
+### Test Case for __init__
+
 | Test case              |  Expected Result    |
 |------------------------|---------------------|
 | (int) numerator,denominator  |  Fraction(numerator,denominator)  |
