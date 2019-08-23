@@ -18,14 +18,14 @@ Write a table describing your test cases.
 
 ## Test Cases for Fraction
 
-### Test Case for __init__
+### Test Case for INIT
 
 | Test case              |  Expected Result    |
 |------------------------|---------------------|
 | (int) Numerator, (int) Denominator  |  Fraction(numerator,denominator)  |
 | (not int) Numerator,Denominator |  NameError   |
 
-### Test Case for __str__
+### Test Case for STR
 
 | Test case              |  Expected Result    |
 |------------------------|---------------------|
@@ -35,7 +35,7 @@ Write a table describing your test cases.
 | (positive) Numerator, Denominator = 0 | 1/0 |
 | Numerator = 0 , (non-zero) Denominator | 0 |
 
-### Test Case for __add__
+### Test Case for ADD
 
 | Test Case              |  Expected Result    |
 |------------------------|---------------------|
@@ -44,7 +44,7 @@ Write a table describing your test cases.
 | -1/0 added with (Non-zero) Fraction | -1/0 |
 | 1/0 added with -1/0 | 0/0 |
 
-### Test Case for __mul__ 
+### Test Case for MUL 
 
 | Test Case              |  Expected Result    |
 |------------------------|---------------------|
@@ -53,7 +53,7 @@ Write a table describing your test cases.
 | 1/0 or -1/0 multiply by (Non-zero) Fraction | 1/0 or -1/0 |
 | 1/0 or -1/0 multiply tpogether | 1/0 or -1/0 |
 
-### Test Case for __eq__ 
+### Test Case for EQ 
 
 | Test Case              |  Expected Result    |
 |------------------------|---------------------|
