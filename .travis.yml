@@ -1,0 +1,11 @@
+language: python
+    
+python: "3.6"
+
+# don't clone more than necessary
+git:
+  depth: 1
+   
+# script to run tests. Script can have many commands, one per line.
+script: 
+  - python -m unittest discover -p "*_test.py"
