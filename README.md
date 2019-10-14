@@ -2,6 +2,8 @@
 
 by Patteera Likitamnuayporn
 
+![Build status](https://travis-ci.org/mmookptr/unittesting-mmookptr.svg?branch=master)
+
 
 ## Test Cases for unique
 
