@@ -2,7 +2,7 @@
 
 by Patteera Likitamnuayporn
 
-![Build status](https://travis-ci.org/mmookptr/unittesting-mmookptr.svg?branch=master)
+[![Build Status](https://travis-ci.org/mmookptr/unittesting-mmookptr.svg?branch=master)](https://travis-ci.org/mmookptr/unittesting-mmookptr)
 
 
 ## Test Cases for unique
