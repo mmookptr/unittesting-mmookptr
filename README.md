@@ -3,6 +3,7 @@
 by Patteera Likitamnuayporn
 
 ![Build status](https://travis-ci.org/mmookptr/unittesting-mmookptr.svg?branch=master)
+[![codecov](https://codecov.io/gh/mmookptr/unittesting-mmookptr/branch/master/graph/badge.svg)](https://codecov.io/gh/mmookptr/unittesting-mmookptr)
 
 
 ## Test Cases for unique

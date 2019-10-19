@@ -9,3 +9,12 @@ git:
 # script to run tests. Script can have many commands, one per line.
 script: 
   - python -m unittest discover -p "*_test.py"
+
+install:
+  - pip install codecov
+
+script:
+  - coverage run fraction_test.py
+
+after_success:
+  - codecov
